@@ -1,4 +1,4 @@
-package com.insticator.codetest.Controller;
+package com.insticator.codetest.controller;
 
 import com.insticator.codetest.modal.Question;
 import com.insticator.codetest.serv.QuestionService;
